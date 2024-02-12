@@ -20,6 +20,7 @@
     "react-scroll-to-top": "^1.0.8",
     "react-slick": "^0.29.0",
     "react-use": "^17.3.2",
+    "serve": "^14.2.1",
     "slick-carousel": "^1.8.1",
     "styled-components": "^5.3.5",
     "uuid": "^8.3.2",
