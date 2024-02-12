@@ -1,0 +1,12 @@
+{
+    "builds": [
+      {
+        "src": "npm run start",
+        "use": "@vercel/node"
+      }
+    ],
+    "engines": {
+      "node": "21.3.0"
+    }
+  }
+  
