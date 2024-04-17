@@ -4,8 +4,8 @@ Swiggy is an Indian online food ordering and delivery platform. Founded in July 
 
 
 
-> npm start
-```
+```> npm start ```
+
 
 
 ## Tech Stack 💻
@@ -26,7 +26,7 @@ Swiggy is an Indian online food ordering and delivery platform. Founded in July 
 - Login / Register Page is enabled with conditional rendering , OTP authentication is implemented via Firebase.
 - User can sort according to its demand like according to cost, rating etc, and also select the food items from multiple filter section.
 - Address Drawer show current location of the user in a customized map implemented using React-Map-Gl.
-- For Payment , Razorpay gateway is been used.
+- For Payment , Razorpay gateway is been used but not working currently (will fix soon).
 
 ## Responsibilities 💪
 
