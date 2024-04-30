@@ -1,4 +1,4 @@
-# Swiggy - (Clone)
+# Swiggy Clone
 
 Swiggy is an Indian online food ordering and delivery platform. Founded in July 2014, Swiggy is based in Bangalore, and operates in 500 Indian cities.
 
@@ -18,7 +18,7 @@ Swiggy is an Indian online food ordering and delivery platform. Founded in July 
 - React-Map-Gl
 - uuid (v4)
 - Firebase (OTP Authentication)
-- RazorPay Integration
+- RazorPay Integration (Trying to fix it)
 
 ## Features ✨
 
