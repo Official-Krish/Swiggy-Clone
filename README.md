@@ -20,7 +20,7 @@ Swiggy is an Indian online food ordering and delivery platform. Founded in July 
 - Firebase (OTP Authentication)
 - RazorPay Integration (Trying to fix it)
 
-## Features ✨
+## Features 
 
 - In Landing Page user can fetch its current location and search bar is enabled with debouncing effect.
 - Login / Register Page is enabled with conditional rendering , OTP authentication is implemented via Firebase.
@@ -28,13 +28,13 @@ Swiggy is an Indian online food ordering and delivery platform. Founded in July 
 - Address Drawer show current location of the user in a customized map implemented using React-Map-Gl.
 - For Payment , Razorpay gateway is been used but not working currently (will fix soon).
 
-## Responsibilities 💪
+## Responsibilities 
 
 - Creating Pixel Perfect pure css Animations without using css library, and pixel perfect layouts for every page.
 - All pages are conditionally controlled using State Hooks, Local Storage.
 - Optimization of all page layouts with its raw css files and its libraries, for the user to have a smoother UI.
 
-## Snap Shots 📷
+## Screenshots
 
 **Landing Page**
 
@@ -56,7 +56,7 @@ Swiggy is an Indian online food ordering and delivery platform. Founded in July 
 
 ![Logo](https://images2.imgbox.com/28/2c/NrF6G6p7_o.jpg)
 
-## References ⏩
+## References 
 
 - Icons are used from material UI  
    https://material-ui.com/components/material-icons/
@@ -70,7 +70,6 @@ Swiggy is an Indian online food ordering and delivery platform. Founded in July 
 - To have interactive and customised maps along with searching ability  
    https://github.com/visgl/react-map-Gl
 
-# Security Policy 🛡️
 
 ## Supported Versions
 
